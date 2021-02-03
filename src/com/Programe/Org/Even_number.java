@@ -17,5 +17,5 @@ public class Even_number {
 		System.out.println("sum value :" + c);
 		System.out.println("count value :" + sum);
 	}
-
+// hai
 }
